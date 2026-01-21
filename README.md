@@ -8,3 +8,5 @@ Promotion Channel Analysis: Evaluate acquisition sources and affiliate channels 
 Conversion Funnel Analysis: Map the user journey across major product steps (search → reserve → pay), quantify drop-offs at each stage, and surface friction points that explain why users fail to convert or repurchase.
 
 By combining descriptive analytics, segment comparisons, and funnel metrics, the project provides a practical framework for diagnosing growth bottlenecks and prioritizing improvements in acquisition strategy, onboarding, and conversion optimization.
+
+(ps: Visualization diagram of conversion funnel analysis is not supported by online complier so I uploaded it as "funnel.png" for your reference:)
